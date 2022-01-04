@@ -3,7 +3,7 @@
 REPOSITORY=/home/ec2-user/app/step1
 PROJECT_NAME=freelec-springboot2-webservice
 
-cd $ REPOSITORY/$PROJECT_NAME/
+cd $REPOSITORY/$PROJECT_NAME/
 
 echo "> Git Pull"
 
